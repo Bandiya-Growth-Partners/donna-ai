@@ -489,7 +489,7 @@ export default function DonnaLandingPage() {
               </Link>
               <div className="border-l border-purple-900/50 h-6 mx-2"></div>
               <Link 
-                href="/login" 
+                href="/../login/" 
                 className="text-gray-300 hover:text-purple-400 transition-colors flex items-center group"
               >
                 <LogIn className="w-4 h-4 mr-1.5" />
